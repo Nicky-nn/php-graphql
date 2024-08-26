@@ -1,0 +1,28 @@
+
+1 - Copie o mueva la carpeta a su servidor local o remoto
+
+2 - Cree una base de datos en MYSQL con el nombre de su preferencia, 
+selecci�nela e importe la base de datos del sistema con phpmyadmin u otro gestor grafico de MYSQL 
+que utilice, la base de datos se encuentra en la carpeta DB
+
+3 - Abra el archivo server.php con su editor de c�digo favorito y configure solamente los datos 
+del servidor. El archivo se encuentra en la carpeta �config�
+
+4 - Abra el archivo app.php con su editor de c�digo favorito, a continuaci�n config�relo seg�n 
+su empresa y servidor. El archivo se encuentra en la carpeta �config�
+
+APP_NAME -> El nombre de su empresa u organizaci�n
+
+APP_URL -> La direcci�n URL de su servidor local (http://localhost/[nombreCreado]/) o remoto (https://[midominio]/[nombreCreado]/). 
+Importante no olvide colocar en la URL si es http o https 
+
+5 - Usuario por defecto: Administrador
+    Clave: Administrador
+
+
+Developer: Nick Russell
+Powered by: INTEGRATE Soluciones Inform�ticas
+
+Todos los derechos reservados 2024 
+Licencia de uso: INTEGRATE Soluciones Inform�ticas
+Distribución bajo licencia de INTEGRATE Soluciones Inform�ticas
